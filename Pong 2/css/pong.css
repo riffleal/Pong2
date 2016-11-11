@@ -1,0 +1,20 @@
+html {
+    font-family: "Lucida Sans", sans-serif;
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    background-color: lightblue;
+}
+
+p {
+    text-align: center;
+    font-size: 14pt;
+}
+
+h2 {
+
+    text-align: center;
+    color: lightblue;
+}
